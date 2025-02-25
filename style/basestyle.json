@@ -16,7 +16,7 @@
     },
     "trails": {
       "type": "vector",
-      "url": "https://tiles.openstreetmap.us/trails.json"
+      "url": "https://tiles.openstreetmap.us/sidewalks.json"
     },
     "hillshade": {
       "type": "raster",
@@ -28,7 +28,7 @@
     }
   },
   "glyphs": "https://font.americanamap.org/{fontstack}/{range}.pbf",
-  "sprite": "/style/sprites/opentrailmap",
+  "sprite": "/style/sprites/opensidewalkmap",
   "layers": [
     {
       "id": "background",
