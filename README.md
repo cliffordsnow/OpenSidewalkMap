@@ -55,7 +55,11 @@ while teal lines indicate the attribute is good to go.
 Trail vector tiles are rendered and hosted by OpenStreetMap US using the schema files [here](https://github.com/osmus/tileservice/blob/main/renderer/layers). Thank you to [@zelonewolf](https://github.com/zelonewolf) for setting up the vector tile pipeline. Render time is currently about 4 hours, so any changes you make will take 4 to 8 hours to appear on the map. Map tiles are not available for public use at this time.
 
 ### Static stylesheets
+<<<<<<< HEAD
 OpenSidewalkMap has complex, parameter-driven styling. For performance, styles are generated at runtime. However, static stylesheets are also generated at build time for ease-of-use by other apps. You can browse the full list of available styles once they are available.<!-- [here](https://opensidewalkmap.us/dist/styles/).--> Generated styles are subject to the same license as the rest of OpenSidewalkMap (see below).
+=======
+OpenSidewalkMap has complex, parameter-driven styling. For performance, styles are generated at runtime. However, static stylesheets are also generated at build time for ease-of-use by other apps. You can browse the full list of available styles [here](https://opensidewalkmap.us/dist/styles/). Generated styles are subject to the same license as the rest of OpenSidewalkMap (see below).
+>>>>>>> b99bd7263d00fbb3b436cb993453ced30e4f497b
 
 ## Get involved
 
